@@ -1,0 +1,1 @@
+This program asks for 2 initial number for the beginning of the fibonacci sequence and a position you wish to be returned. The final result will be the fibonacci number at the position that was entered.
